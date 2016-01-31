@@ -10,7 +10,7 @@ bavin2009@gmail.com
 """
 
 # import en
-import nltk
+# import nltk
 import sys
 import string
 import re
